@@ -82,7 +82,7 @@ fix:
     judgeTiming: 0.0
 
 modSetting:
-  safeMode: false
+  safeMode: true
   showInfo: false
   showPanel: false
   maskTitleServerUrl: false
